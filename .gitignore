@@ -1,0 +1,15 @@
+# Virtual environment
+airflow-scraper/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Airflow
+logs/
+airflow.db
+
+# Env files
+.env
